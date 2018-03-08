@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7d5ec97-cd83-4989-b34c-db43bae10c8c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/1x2-pin-header.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/1x2-pin-header.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/1x3-pin-header.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/1x3-pin-header.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/1x8-pin-header.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/1x8-pin-header.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/2x2-Female-Socket-Harwin-M20-7830246/M20-782_CONTACT.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/2x2-Female-Socket-Harwin-M20-7830246/M20-782_CONTACT.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/2x2-Female-Socket-Harwin-M20-7830246/M20-78302_MOULD.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/2x2-Female-Socket-Harwin-M20-7830246/M20-78302_MOULD.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/2x2-Female-Socket-Harwin-M20-7830246/m20-7830246_asm.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/2x2-Female-Socket-Harwin-M20-7830246/m20-7830246_asm.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/2x2-pin-header.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/2x2-pin-header.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/2x5-pin-header.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/2x5-pin-header.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/4-40-Flush-Screw-91500A120_TYPE 316 SS FLAT HEAD PHILLIPS MACHINE SCREW.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/4-40-Flush-Screw-91500A120_TYPE 316 SS FLAT HEAD PHILLIPS MACHINE SCREW.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Adafruit-Li-Ion-Battery_Pack_6600mAh-353.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Adafruit-Li-Ion-Battery_Pack_6600mAh-353.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Angle Bracket - 4-40-Karlsson-Robotics.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Angle Bracket - 4-40-Karlsson-Robotics.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/B-04E-Linear-Stepper-Motor-Screw/B-04E_Linear_Stepper_Motor_screw_Driven.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/B-04E-Linear-Stepper-Motor-Screw/B-04E_Linear_Stepper_Motor_screw_Driven.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/B-04E-Linear-Stepper-Motor-Screw/B-04E_Linear_Stepper_Motor_screw_Driven_Body.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/B-04E-Linear-Stepper-Motor-Screw/B-04E_Linear_Stepper_Motor_screw_Driven_Body.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/B-04E-Linear-Stepper-Motor-Screw/B-04E_Linear_Stepper_Motor_screw_Driven_Nut_Slider.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/B-04E-Linear-Stepper-Motor-Screw/B-04E_Linear_Stepper_Motor_screw_Driven_Nut_Slider.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/B-05E-Linear-Stepper-Motor-Screw/B-05E_Linear_Stepper_Motor_screw_Driven.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/B-05E-Linear-Stepper-Motor-Screw/B-05E_Linear_Stepper_Motor_screw_Driven.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/B-05E-Linear-Stepper-Motor-Screw/B-05E_Linear_Stepper_Motor_screw_Driven_Body.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/B-05E-Linear-Stepper-Motor-Screw/B-05E_Linear_Stepper_Motor_screw_Driven_Body.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/B-05E-Linear-Stepper-Motor-Screw/B-05E_Linear_Stepper_Motor_screw_Driven_Nut_Slider.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/B-05E-Linear-Stepper-Motor-Screw/B-05E_Linear_Stepper_Motor_screw_Driven_Nut_Slider.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Battery-Slot.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Battery-Slot.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DGUV10-220-Diffuser.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DGUV10-220-Diffuser.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/0402-Cap.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/0402-Cap.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/0603-Cap.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/0603-Cap.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/4-PIN-Molex-PicoBlade-530470410.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/4-PIN-Molex-PicoBlade-530470410.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/Aptina-MT9J003-CMOS.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/Aptina-MT9J003-CMOS.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/Cuerpo_SO4.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/Cuerpo_SO4.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/DMM 24UJ003-ML-10MP-Camera.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/DMM 24UJ003-ML-10MP-Camera.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/HexNut-M2.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/HexNut-M2.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/M2-Standoff-5mm-hex-55m-thread.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/M2-Standoff-5mm-hex-55m-thread.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/PCB-BottomPlate.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/PCB-BottomPlate.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/PCB-TopPlate.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/PCB-TopPlate.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/Pata_IZ_SO.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/Pata_IZ_SO.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/PhotoCoupler-S05-PC457L0NIP0F.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/PhotoCoupler-S05-PC457L0NIP0F.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/Proprietary-Coupler.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/Proprietary-Coupler.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/zx360d-b-10p.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/DMM 24UJ003-ML-10MP-Camera/zx360d-b-10p.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Header-Pins-Female/Female-Header_8.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Header-Pins-Female/Female-Header_8.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Header-Pins-Female/header.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Header-Pins-Female/header.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Header-Pins-Female/header.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Header-Pins-Female/header.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Header-Pins-Female/single-pin.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Header-Pins-Female/single-pin.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/M2-Flush-Screw-92010A002_METRIC 18-8 SS FLAT HEAD PHIL MACHINE SCREW.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/M2-Flush-Screw-92010A002_METRIC 18-8 SS FLAT HEAD PHIL MACHINE SCREW.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/M2.5-4mm-92000A102_18-8 SS METRIC PAN HEAD.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/M2.5-4mm-92000A102_18-8 SS METRIC PAN HEAD.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/M2.5-5mm-92000A103_18-8 SS PAN HEAD PHIL MACHINE SCREW-McMaster.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/M2.5-5mm-92000A103_18-8 SS PAN HEAD PHIL MACHINE SCREW-McMaster.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/M2.5-Standoff-6mm-hex-Mouser-M2101-2545-SS.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/M2.5-Standoff-6mm-hex-Mouser-M2101-2545-SS.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/M405D2-LED.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/M405D2-LED.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/MAG-MATE-Neodymium-0.125-in-NE2512NP35.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/MAG-MATE-Neodymium-0.125-in-NE2512NP35.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Molex-FPC-520300429.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Molex-FPC-520300429.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Nylon-Bearing-0.125-inch-2639T200.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Nylon-Bearing-0.125-inch-2639T200.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/OMRON-EE_SX1103.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/OMRON-EE_SX1103.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/P50S-Pinhole.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/P50S-Pinhole.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/13x2_female_header.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/13x2_female_header.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/Body.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/Body.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/C0805K_0_1UF.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/C0805K_0_1UF.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/C0805K_10UF.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/C0805K_10UF.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/FIDUCIAL_1MM_FIDUCIAL.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/FIDUCIAL_1MM_FIDUCIAL.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/IDC Socket Male 26pin Straight THT Goldplated 2_54mm.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/IDC Socket Male 26pin Straight THT Goldplated 2_54mm.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/IDC-Spacer.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/IDC-Spacer.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/LCD-Glass-Cover.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/LCD-Glass-Cover.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/Pitft 28inch resistive.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/Pitft 28inch resistive.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/QFN16_3MM_STMPE610.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/QFN16_3MM_STMPE610.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/R0805_R0805.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/R0805_R0805.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/SOT235L_MIC52253_3.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/SOT235L_MIC52253_3.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/SOT23BEC_MMBT2222.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/SOT23BEC_MMBT2222.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/SOT23_AXP803.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/SOT23_AXP803.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/TFT_2_83IN_240X320_50PIN_DISP_LCD_1_28IN_240X320_50PIN.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/TFT_2_83IN_240X320_50PIN_DISP_LCD_1_28IN_240X320_50PIN.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/adafruit pitft 28inch resistive pcb.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/adafruit pitft 28inch resistive pcb.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/pin.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/PiTFT-2.8-Resistive/pin.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry Pi 7-inch Display/MicroUSB_1.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry Pi 7-inch Display/MicroUSB_1.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry Pi 7-inch Display/QECN31 - Header male_QECN310005.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry Pi 7-inch Display/QECN31 - Header male_QECN310005.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry Pi 7-inch Display/RPI display pcb assembly.sldasm" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry Pi 7-inch Display/RPI display pcb assembly.sldasm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry Pi 7-inch Display/RPI display pcb.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry Pi 7-inch Display/RPI display pcb.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry Pi 7-inch Display/RPI display.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry Pi 7-inch Display/RPI display.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry Pi 7-inch Display/RPI display.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry Pi 7-inch Display/RPI display.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry Pi 7-inch Display/User Library-c-292303-9-d-3d.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry Pi 7-inch Display/User Library-c-292303-9-d-3d.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry-pi-model-b-2/raspberry_pi_B+_(micro_USB).SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry-pi-model-b-2/raspberry_pi_B+_(micro_USB).SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry-pi-model-b-2/raspberry_pi_B+_(micro_USB_contacts).SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry-pi-model-b-2/raspberry_pi_B+_(micro_USB_contacts).SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry-pi-model-b-2/raspberry_pi_B+_(micro_USB_cover).SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberry-pi-model-b-2/raspberry_pi_B+_(micro_USB_cover).SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberrypi_b.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Raspberrypi_b.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Resistor-50-Axial 0_5W-8_2R.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Resistor-50-Axial 0_5W-8_2R.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G/0402CAP_10NF.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G/0402CAP_10NF.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G/0402CAP_1UF.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G/0402CAP_1UF.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G/0402RES_180.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G/0402RES_180.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G/0402RES_1K.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G/0402RES_1K.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G/0402RES_4_7K.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G/0402RES_4_7K.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G/TDFN8_MAX1704X.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G/TDFN8_MAX1704X.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G/lipo_fuel_gaugev11.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Sparkfun-Lipo-Fuel-Gauge-10617-MAX17043G/lipo_fuel_gaugev11.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Steel-Shaft-1257K840-0.125-0.4-inch.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Steel-Shaft-1257K840-0.125-0.4-inch.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Thorlabs-SLH-1-Microscope-Clips.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/Thorlabs-SLH-1-Microscope-Clips.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Down-Angle-Connector/1AA05-072-MA1___.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Down-Angle-Connector/1AA05-072-MA1___.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Down-Angle-Connector/1AA05-072-MA2___.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Down-Angle-Connector/1AA05-072-MA2___.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Down-Angle-Connector/1AA05-072___.sldasm" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Down-Angle-Connector/1AA05-072___.sldasm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Down-Angle-Connector/MTN-907_USB-DOWN-ANGLE-BLACK.sldasm" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Down-Angle-Connector/MTN-907_USB-DOWN-ANGLE-BLACK.sldasm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Down-Angle-Connector/MTN-907_WITH LOGO-DOWN.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Down-Angle-Connector/MTN-907_WITH LOGO-DOWN.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Micro-Cable/USB-3.0-Micro-Cable.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Micro-Cable/USB-3.0-Micro-Cable.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Micro-Right-Angle-Cable/1AA05-071-MA1___.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Micro-Right-Angle-Cable/1AA05-071-MA1___.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Micro-Right-Angle-Cable/1AA05-071-MA2___.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Micro-Right-Angle-Cable/1AA05-071-MA2___.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Micro-Right-Angle-Cable/1AA05-071-MA3___.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Micro-Right-Angle-Cable/1AA05-071-MA3___.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Micro-Right-Angle-Connector/USB-3.0-Micro-Right-Angle-Connector.sldasm" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Components/USB-3.0-Micro-Right-Angle-Connector/USB-3.0-Micro-Right-Angle-Connector.sldasm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/D3.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/D3.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/DiffractionChamber.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/DiffractionChamber.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/22x22mm-Cover-Slip.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/22x22mm-Cover-Slip.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/24x50mm-Slide.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/24x50mm-Slide.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/25x25mm-Cover-Slip.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/25x25mm-Cover-Slip.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/9657K810_STEEL COMPRESSION SPRING-1-4th.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/9657K810_STEEL COMPRESSION SPRING-1-4th.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/Bearing-Sleeve.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/Bearing-Sleeve.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/Drawer.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/Drawer.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/Motor-Coupler.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/Motor-Coupler.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/PCB-CAD/DrawerStepperPCB-CAD.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/PCB-CAD/DrawerStepperPCB-CAD.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/PCB-CAD/POLOLUDRV88342134_POLOLUDRV88342134.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/PCB-CAD/POLOLUDRV88342134_POLOLUDRV88342134.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/PCB-CAD/drawerstepperpcb.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/PCB-CAD/drawerstepperpcb.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/Shaft-Mount.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/Shaft-Mount.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/Spring-Plate.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/Spring-Plate.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/U-Channel.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Drawer/U-Channel.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/FrontPanel.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/FrontPanel.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/LED-Slide-Track.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/LED-Slide-Track.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/MGH_Engraving.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/MGH_Engraving.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/Diffuser-Mount.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/Diffuser-Mount.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/Diffuser-Mount.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/Diffuser-Mount.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/LED-Mount.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/LED-Mount.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/LED-Mount.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/LED-Mount.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/LED-Mount/CoverPlate.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/LED-Mount/CoverPlate.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/P50S-Pinhole-Mount.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/P50S-Pinhole-Mount.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/Pi-Battery-Mount.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/Pi-Battery-Mount.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/Pin-Extender-PCB.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/Pin-Extender-PCB.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/Pinhole-Mount.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Mounts/Pinhole-Mount.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/OuterCase.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/OuterCase.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_100K.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_100K.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_10UF.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_10UF.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_15K.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_15K.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_1K.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_1K.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_1_0K.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_1_0K.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_1_87M.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_1_87M.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_200K.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_200K.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_270K.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_270K.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_2_2UF.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_2_2UF.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_43K.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_43K.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_49_9K.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_49_9K.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_75K.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805NO_75K.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805_10MGAP_0_1UF.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/0805_10MGAP_0_1UF.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/2.54_angle-header.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/2.54_angle-header.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/2.54_angle-pin.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/2.54_angle-pin.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/2.54_base.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/2.54_base.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/2x13-pin-header.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/2x13-pin-header.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/2x2-pin-socket-966204-6702-AR.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/2x2-pin-socket-966204-6702-AR.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/Adafruit Powerboost 1000c rev b.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/Adafruit Powerboost 1000c rev b.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/C1210_C1210.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/C1210_C1210.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/CHIPLED_0805_NOOUTLINE_BLUE.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/CHIPLED_0805_NOOUTLINE_BLUE.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/CHIPLED_0805_NOOUTLINE_GREEN.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/CHIPLED_0805_NOOUTLINE_GREEN.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/CHIPLED_0805_NOOUTLINE_ORANGE.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/CHIPLED_0805_NOOUTLINE_ORANGE.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/CHIPLED_0805_NOOUTLINE_RED.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/CHIPLED_0805_NOOUTLINE_RED.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/FRA-Spacer.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/FRA-Spacer.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/Header 2mm 2pin.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/Header 2mm 2pin.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/INDUCTOR_5X5MM_TDK_VLC5045_6_8UH.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/INDUCTOR_5X5MM_TDK_VLC5045_6_8UH.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/JSTPH2_JST.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/JSTPH2_JST.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/Main_Board_Pi-7-inch-Single-Li-Ion-Pack.SLDASM" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/Main_Board_Pi-7-inch-Single-Li-Ion-Pack.SLDASM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/Main_Board_Pi-7-inch-Single-Li-Ion-Pack.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/Main_Board_Pi-7-inch-Single-Li-Ion-Pack.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/Micro-USB-molex_0473460001.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/Micro-USB-molex_0473460001.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/P2N2222A Transistors NPN TO-92 (2,54mm).SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/P2N2222A Transistors NPN TO-92 (2,54mm).SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/PVQFN16_TPS61090RSAR.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/PVQFN16_TPS61090RSAR.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/PowerBoost-Spacer.SLDPRT" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/PowerBoost-Spacer.SLDPRT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/QFN20_4MM_MCP73871.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/QFN20_4MM_MCP73871.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/R2010_R2010.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/R2010_R2010.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/SC59BEC_SC59BEC.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/SC59BEC_SC59BEC.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/_0805MP_1_87M.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/_0805MP_1_87M.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/_0805MP_340K.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/_0805MP_340K.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/adafruit powerboost 1000c rev b.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/PCB-CAD/adafruit powerboost 1000c rev b.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Slider.sldprt" afterPath="$PROJECT_DIR$/../../CAD/V2-Raspberry-PI/Slider.sldprt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camera_d3/core_camera_d3.py" afterPath="$PROJECT_DIR$/camera_d3/core_camera_d3.py" />
+    </list>
+    <ignored path="D3-UI.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/D3-UI$main.coverage" NAME="main Coverage Results" MODIFIED="1473054823863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/home/pi/d3-ui" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="D3-UI" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="camera_d3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera_d3/camera_d3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera_d3/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="4" column="36" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="36" />
+              <folding>
+                <element signature="e#29#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="histogram.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera_d3/histogram.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3162">
+              <caret line="206" column="34" lean-forward="false" selection-start-line="206" selection-start-column="34" selection-end-line="206" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image_button.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera_d3/image_button.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core_camera_d3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/camera_d3/core_camera_d3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="213" column="0" lean-forward="true" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>video_thread</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/d3_camera.py" />
+        <option value="$PROJECT_DIR$/camera_d3.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/camera_d3/histogram.py" />
+        <option value="$PROJECT_DIR$/camera_d3/hough_overlay.py" />
+        <option value="$PROJECT_DIR$/camera_d3/image_button.py" />
+        <option value="$PROJECT_DIR$/camera_d3/__init__.py" />
+        <option value="$PROJECT_DIR$/camera_d3/camera_d3.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/camera_d3/core_camera_d3.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="800" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="D3-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="D3-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="D3-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="D3-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="D3-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="D3-UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camera_d3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="D3-UI" sdk-home="C:\Python\Python27\python.exe">
+        <option name="mySdkHome" value="C:\Python\Python27\python.exe" />
+        <option name="myModuleName" value="D3-UI" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\d3\PI\D3-UI\camera_d3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="ssh://pi@10.0.0.9:22/usr/bin/python" />
+      <option name="WORKING_DIRECTORY" value="/home/pi/d3-ui" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="D3-UI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/home/pi/d3-ui/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="D3-UI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="D3-UI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="D3-UI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
+      <module name="" />
+      <option name="PORT" value="0" />
+      <option name="HOST" value="null" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list />
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="D3-UI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="D3-UI" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="D3-UI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="D3-UI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="D3-UI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="D3-UI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="D3-UI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7d5ec97-cd83-4989-b34c-db43bae10c8c" name="Default" comment="" />
+      <created>1472263806403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1472263806403</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="800" height="860" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20597738" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31216216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3282967" sideWeight="0.5025707" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3502747" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32123655" sideWeight="0.4974293" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33295062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33754304" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/.PyCharm40/system/remote_sources/2081770359/-1227933812/PIL/Image.py</url>
+          <line>934</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="114" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self._capture_fourcc" language="Python" />
+        <watch expression="(size_x, size_y)" language="Python" />
+        <watch expression="exposure" />
+        <watch expression="dbx" language="Python" />
+        <watch expression="dir(dbx)" language="Python" />
+        <watch expression="self._uploaded_size" />
+        <watch expression="self._uploading.pos_hint" />
+        <watch expression="self._uploading.pos_hint" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/camera_d3/camera_d3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_d3/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="36" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#29#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_d3/histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3162">
+          <caret line="206" column="34" lean-forward="false" selection-start-line="206" selection-start-column="34" selection-end-line="206" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_d3/image_button.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_d3/core_camera_d3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_d3/camera_d3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="104" column="39" lean-forward="false" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_d3/histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_d3/core_camera_d3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4709">
+          <caret line="299" column="32" lean-forward="false" selection-start-line="299" selection-start-column="32" selection-end-line="299" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1645" column="31" lean-forward="false" selection-start-line="1645" selection-start-column="31" selection-end-line="1645" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd_frame.py" />
+    <entry file="file://$USER_HOME$/.PyCharm40/system/remote_sources/2081770359/-1227933812/kivy/lib/mtdev.py" />
+    <entry file="file://$USER_HOME$/.PyCharm40/system/python_stubs/2081770359/__builtin__.py" />
+    <entry file="file://$USER_HOME$/.PyCharm40/system/remote_sources/2081770359/-1227933812/kivy/uix/behaviors/button.py" />
+    <entry file="file://$USER_HOME$/.PyCharm40/system/remote_sources/2081770359/-1227933812/PIL/Image.py" />
+    <entry file="file://$USER_HOME$/.PyCharm40/system/python_stubs/2081770359/kivy/graphics/fbo.py" />
+    <entry file="file://$USER_HOME$/.PyCharm40/system/remote_sources/2081770359/-1227933812/kivy/core/camera/__init__.py" />
+    <entry file="file://$USER_HOME$/.PyCharm40/system/remote_sources/2081770359/-1227933812/kivy/uix/floatlayout.py" />
+    <entry file="file://$USER_HOME$/.PyCharm40/system/remote_sources/2081770359/-1227933812/kivy/uix/slider.py" />
+    <entry file="file://$USER_HOME$/.PyCharm40/system/remote_sources/2081770359/-1227933812/kivy/app.py" />
+    <entry file="file://$USER_HOME$/.PyCharm40/system/remote_sources/2081770359/-1227933812/kivy/core/window/window_egl_rpi.py" />
+    <entry file="file://$USER_HOME$/.PyCharm40/system/remote_sources/2081770359/-1227933812/kivy/base.py" />
+    <entry file="file://$USER_HOME$/.PyCharm40/system/remote_sources/2081770359/201544331/threading.py" />
+    <entry file="file://$USER_HOME$/.PyCharm40/system/remote_sources/2081770359/-1227933812/kivy/input/providers/mtdev.py" />
+    <entry file="file://$USER_HOME$/.PyCharm40/system/remote_sources/2081770359/-1227933812/kivy/clock.py" />
+    <entry file="file://$PROJECT_DIR$/camera_d3/histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_d3/image_button.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_d3/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="36" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#29#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3162">
+          <caret line="206" column="34" lean-forward="false" selection-start-line="206" selection-start-column="34" selection-end-line="206" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_d3/camera_d3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_d3/core_camera_d3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="213" column="0" lean-forward="true" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
